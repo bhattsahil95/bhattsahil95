@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhatt</h1>
-<h3 align="center">A finance professional with an active interest in Technology.</h3>
+<h3 align="center">A finance professional with a keen passion for Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhattsahil95&label=Profile%20views&color=0e75b6&style=flat" alt="bhattsahil95" /> </p>
 
